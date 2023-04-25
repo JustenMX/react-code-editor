@@ -32,7 +32,8 @@ Build a Code Editor with React that **Compiles** and **Executes** in 40+ Languag
 
 ## Currently Working On
 
-- Resolve API errors
-- UI / UX changes to LandingPage
-- Documentation of workflow
-- Readme
+- [] Resolve API errors
+- [] Update Frontend
+- [] UI / UX changes to LandingPage
+- [] Documentation of workflow
+- [x] Readme
