@@ -1,10 +1,11 @@
+import Landing from "./pages/Landing";
 import "./main.css";
 
 function App() {
   return (
-    <div>
-      <h1>JustenMX + React</h1>
-    </div>
+    <>
+      <Landing />
+    </>
   );
 }
 
